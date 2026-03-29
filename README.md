@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sagarpatil-tech/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0202-happy-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sagarpatil-tech/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 <!---LeetCode Topics End-->
