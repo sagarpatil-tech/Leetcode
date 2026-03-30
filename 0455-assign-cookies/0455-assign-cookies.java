@@ -11,9 +11,8 @@ class Solution {
             count++;
             i++;
             j++;
-        }else{
-        j++;
         }
+        j++;
       }
     return count;
     }
