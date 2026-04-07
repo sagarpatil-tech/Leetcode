@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sagarpatil-tech/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/sagarpatil-tech/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sagarpatil-tech/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sagarpatil-tech/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sagarpatil-tech/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0455-assign-cookies](https://github.com/sagarpatil-tech/Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sagarpatil-tech/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sagarpatil-tech/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sagarpatil-tech/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Greedy
