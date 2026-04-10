@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/sagarpatil-tech/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0274-h-index](https://github.com/sagarpatil-tech/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0455-assign-cookies](https://github.com/sagarpatil-tech/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/sagarpatil-tech/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0274-h-index](https://github.com/sagarpatil-tech/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0455-assign-cookies](https://github.com/sagarpatil-tech/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sagarpatil-tech/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sagarpatil-tech/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/sagarpatil-tech/Leetcode/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
