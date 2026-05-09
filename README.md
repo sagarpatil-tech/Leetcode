@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sagarpatil-tech/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0575-distribute-candies](https://github.com/sagarpatil-tech/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0682-baseball-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/sagarpatil-tech/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/sagarpatil-tech/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sagarpatil-tech/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0575-distribute-candies](https://github.com/sagarpatil-tech/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sagarpatil-tech/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
