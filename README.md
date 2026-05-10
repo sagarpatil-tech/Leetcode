@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/sagarpatil-tech/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0383-ransom-note](https://github.com/sagarpatil-tech/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0525-contiguous-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sagarpatil-tech/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/sagarpatil-tech/Leetcode/tree/main/0575-distribute-candies/) | Easy |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sagarpatil-tech/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0383-ransom-note](https://github.com/sagarpatil-tech/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/sagarpatil-tech/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sagarpatil-tech/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0274-h-index](https://github.com/sagarpatil-tech/Leetcode/tree/main/0274-h-index/) | Medium |
+| [0383-ransom-note](https://github.com/sagarpatil-tech/Leetcode/tree/main/0383-ransom-note/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
