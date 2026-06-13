@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sagarpatil-tech/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0057-insert-interval](https://github.com/sagarpatil-tech/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/sagarpatil-tech/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarpatil-tech/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/sagarpatil-tech/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sagarpatil-tech/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarpatil-tech/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0877-stone-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sagarpatil-tech/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sagarpatil-tech/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
