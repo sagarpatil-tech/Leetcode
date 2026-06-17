@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/sagarpatil-tech/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sagarpatil-tech/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0057-insert-interval](https://github.com/sagarpatil-tech/Leetcode/tree/main/0057-insert-interval/) | Medium |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sagarpatil-tech/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0014-longest-common-prefix](https://github.com/sagarpatil-tech/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0242-valid-anagram](https://github.com/sagarpatil-tech/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/sagarpatil-tech/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/sagarpatil-tech/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sagarpatil-tech/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sagarpatil-tech/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
