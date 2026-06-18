@@ -4,10 +4,10 @@ class Solution {
             int current =0;
             int high =0;
         for(int i=0; i<n; i++){
-            current = gain[i] + current ; 
-            high = Math.max(high , current);        
+            int max = gain[i] + current ; 
+            high = Math.max(max , high);
+            current = max;
         }
-        
         return high;
     }
 }
