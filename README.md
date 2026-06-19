@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sagarpatil-tech/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sagarpatil-tech/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sagarpatil-tech/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/sagarpatil-tech/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0877-stone-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sagarpatil-tech/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
