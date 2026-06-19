@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0877-stone-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sagarpatil-tech/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Dynamic Programming
