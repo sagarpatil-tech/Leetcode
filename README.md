@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sagarpatil-tech/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sagarpatil-tech/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/sagarpatil-tech/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sagarpatil-tech/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sagarpatil-tech/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/sagarpatil-tech/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
