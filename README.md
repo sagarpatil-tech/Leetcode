@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sagarpatil-tech/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sagarpatil-tech/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sagarpatil-tech/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Two Pointers
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sagarpatil-tech/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0877-stone-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sagarpatil-tech/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sagarpatil-tech/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
