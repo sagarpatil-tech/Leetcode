@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sagarpatil-tech/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/sagarpatil-tech/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0189-rotate-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0415-add-strings](https://github.com/sagarpatil-tech/Leetcode/tree/main/0415-add-strings/) | Easy |
