@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sagarpatil-tech/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0877-stone-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/sagarpatil-tech/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sagarpatil-tech/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/sagarpatil-tech/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sagarpatil-tech/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/sagarpatil-tech/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
