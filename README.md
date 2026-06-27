@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sagarpatil-tech/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sagarpatil-tech/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sagarpatil-tech/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/sagarpatil-tech/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sagarpatil-tech/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sagarpatil-tech/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
