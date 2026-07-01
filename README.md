@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sagarpatil-tech/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/sagarpatil-tech/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sagarpatil-tech/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sagarpatil-tech/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/sagarpatil-tech/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/sagarpatil-tech/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sagarpatil-tech/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sagarpatil-tech/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/sagarpatil-tech/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/sagarpatil-tech/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
