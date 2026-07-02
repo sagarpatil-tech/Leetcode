@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sagarpatil-tech/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sagarpatil-tech/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sagarpatil-tech/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sagarpatil-tech/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/sagarpatil-tech/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sagarpatil-tech/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/sagarpatil-tech/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sagarpatil-tech/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0877-stone-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/sagarpatil-tech/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sagarpatil-tech/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sagarpatil-tech/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sagarpatil-tech/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sagarpatil-tech/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sagarpatil-tech/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
