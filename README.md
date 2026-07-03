@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sagarpatil-tech/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sagarpatil-tech/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sagarpatil-tech/Leetcode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sagarpatil-tech/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/sagarpatil-tech/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sagarpatil-tech/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sagarpatil-tech/Leetcode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sagarpatil-tech/Leetcode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/sagarpatil-tech/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sagarpatil-tech/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sagarpatil-tech/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/sagarpatil-tech/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sagarpatil-tech/Leetcode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
