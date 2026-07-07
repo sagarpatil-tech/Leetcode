@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sagarpatil-tech/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/sagarpatil-tech/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/sagarpatil-tech/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/sagarpatil-tech/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sagarpatil-tech/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sagarpatil-tech/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sagarpatil-tech/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0205-isomorphic-strings](https://github.com/sagarpatil-tech/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/sagarpatil-tech/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/sagarpatil-tech/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0415-add-strings](https://github.com/sagarpatil-tech/Leetcode/tree/main/0415-add-strings/) | Easy |
