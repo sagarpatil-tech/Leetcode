@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sagarpatil-tech/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/sagarpatil-tech/Leetcode/tree/main/0575-distribute-candies/) | Easy |
+| [0605-can-place-flowers](https://github.com/sagarpatil-tech/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0682-baseball-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/sagarpatil-tech/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/sagarpatil-tech/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sagarpatil-tech/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/sagarpatil-tech/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0605-can-place-flowers](https://github.com/sagarpatil-tech/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/sagarpatil-tech/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
