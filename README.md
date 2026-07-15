@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sagarpatil-tech/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sagarpatil-tech/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sagarpatil-tech/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sagarpatil-tech/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sagarpatil-tech/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
