@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sagarpatil-tech/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/sagarpatil-tech/Leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0069-sqrtx](https://github.com/sagarpatil-tech/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sagarpatil-tech/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0202-happy-number/) | Easy |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sagarpatil-tech/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/sagarpatil-tech/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/sagarpatil-tech/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sagarpatil-tech/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
