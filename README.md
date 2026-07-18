@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sagarpatil-tech/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sagarpatil-tech/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sagarpatil-tech/Leetcode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/sagarpatil-tech/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -293,5 +295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sagarpatil-tech/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
