@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sagarpatil-tech/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/sagarpatil-tech/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/sagarpatil-tech/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sagarpatil-tech/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/sagarpatil-tech/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarpatil-tech/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/sagarpatil-tech/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0877-stone-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sagarpatil-tech/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sagarpatil-tech/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
