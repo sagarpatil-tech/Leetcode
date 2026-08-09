@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0274-h-index](https://github.com/sagarpatil-tech/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0322-coin-change](https://github.com/sagarpatil-tech/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sagarpatil-tech/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sagarpatil-tech/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarpatil-tech/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/sagarpatil-tech/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/sagarpatil-tech/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0877-stone-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sagarpatil-tech/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sagarpatil-tech/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -312,4 +314,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sagarpatil-tech/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/sagarpatil-tech/Leetcode/tree/main/0322-coin-change/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/sagarpatil-tech/Leetcode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/sagarpatil-tech/Leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
