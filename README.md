@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sagarpatil-tech/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/sagarpatil-tech/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sagarpatil-tech/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sagarpatil-tech/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/sagarpatil-tech/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sagarpatil-tech/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sagarpatil-tech/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/sagarpatil-tech/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sagarpatil-tech/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sagarpatil-tech/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
