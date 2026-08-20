@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sagarpatil-tech/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarpatil-tech/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sagarpatil-tech/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/sagarpatil-tech/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sagarpatil-tech/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/sagarpatil-tech/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarpatil-tech/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sagarpatil-tech/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/sagarpatil-tech/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sagarpatil-tech/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/sagarpatil-tech/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0202-happy-number/) | Easy |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sagarpatil-tech/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sagarpatil-tech/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sagarpatil-tech/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0139-word-break](https://github.com/sagarpatil-tech/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sagarpatil-tech/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/sagarpatil-tech/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sagarpatil-tech/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/sagarpatil-tech/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarpatil-tech/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/sagarpatil-tech/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/sagarpatil-tech/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/sagarpatil-tech/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sagarpatil-tech/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/sagarpatil-tech/Leetcode/tree/main/0139-word-break/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sagarpatil-tech/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/sagarpatil-tech/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -363,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sagarpatil-tech/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/sagarpatil-tech/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagarpatil-tech/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/sagarpatil-tech/Leetcode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
