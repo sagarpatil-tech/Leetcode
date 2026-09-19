@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sagarpatil-tech/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0322-coin-change](https://github.com/sagarpatil-tech/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,12 +370,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sagarpatil-tech/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sagarpatil-tech/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagarpatil-tech/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sagarpatil-tech/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,4 +413,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 <!---LeetCode Topics End-->
