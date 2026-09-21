@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sagarpatil-tech/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/sagarpatil-tech/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/sagarpatil-tech/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/sagarpatil-tech/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/sagarpatil-tech/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/sagarpatil-tech/Leetcode/tree/main/0057-insert-interval/) | Medium |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarpatil-tech/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/sagarpatil-tech/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sagarpatil-tech/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/sagarpatil-tech/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sagarpatil-tech/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sagarpatil-tech/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sagarpatil-tech/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sagarpatil-tech/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/sagarpatil-tech/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0139-word-break](https://github.com/sagarpatil-tech/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sagarpatil-tech/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/sagarpatil-tech/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/sagarpatil-tech/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/sagarpatil-tech/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sagarpatil-tech/Leetcode/tree/main/0169-majority-element/) | Easy |
