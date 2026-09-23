@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sagarpatil-tech/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagarpatil-tech/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarpatil-tech/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagarpatil-tech/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sagarpatil-tech/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagarpatil-tech/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarpatil-tech/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagarpatil-tech/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sagarpatil-tech/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagarpatil-tech/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarpatil-tech/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagarpatil-tech/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -433,14 +436,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sagarpatil-tech/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarpatil-tech/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sagarpatil-tech/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarpatil-tech/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagarpatil-tech/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarpatil-tech/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagarpatil-tech/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
