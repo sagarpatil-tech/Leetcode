@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarpatil-tech/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sagarpatil-tech/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0274-h-index](https://github.com/sagarpatil-tech/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sagarpatil-tech/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sagarpatil-tech/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/sagarpatil-tech/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sagarpatil-tech/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/sagarpatil-tech/Leetcode/tree/main/0290-word-pattern/) | Easy |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarpatil-tech/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarpatil-tech/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/sagarpatil-tech/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/sagarpatil-tech/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sagarpatil-tech/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## String Matching
